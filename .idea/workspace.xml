@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0bb789f-c24c-483e-ac8c-cfc463d059c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/danht.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HelloController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/nav.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/services.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/subviews/hello.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/app/Http/Controllers/CandidateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/app/Http/Controllers/CandidateController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/lang/en/validation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/resources/views/candidates/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/views/candidates/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CustomerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CustomerController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../omed/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../omed/resources/views/welcome.blade.php" afterDir="false" />
     </list>
@@ -185,6 +173,8 @@
       <workItem from="1583179105870" duration="4195000" />
       <workItem from="1583183412407" duration="11110000" />
       <workItem from="1583228929603" duration="708000" />
+      <workItem from="1583229677685" duration="11855000" />
+      <workItem from="1583241770259" duration="2842000" />
     </task>
     <servers />
   </component>
@@ -236,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1583229648095" />
-    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583198909928">
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583239606630">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1583198909928" />
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1583239606630" />
     <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1583229832113">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -256,14 +246,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="245" y="7" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583188739440" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583229685211">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583241778734">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583229685211" />
-    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583201668143">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583241778734" />
+    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583243641105">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1583201668143" />
+    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1583243641105" />
     <state x="432" y="211" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583181336823">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
