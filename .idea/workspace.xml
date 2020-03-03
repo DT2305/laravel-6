@@ -2,24 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0bb789f-c24c-483e-ac8c-cfc463d059c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/danht.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HelloController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/nav.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/services.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/subviews/hello.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/app/Http/Controllers/CandidateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/app/Http/Controllers/CandidateController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/lang/en/validation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/resources/views/candidates/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/views/candidates/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../omed/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../omed/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laravel6" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -117,10 +138,13 @@
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YXXv3gNnaWOJv9aVwQqfkwg38n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -128,9 +152,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Blade" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../omed" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\laravel6\resources\views" />
+      <recent name="C:\xampp\htdocs\laravel6\resources\views\subviews" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -149,20 +182,95 @@
       <option name="presentableId" value="Default" />
       <updated>1583090140561</updated>
       <workItem from="1583090227160" duration="1106000" />
+      <workItem from="1583179105870" duration="4195000" />
+      <workItem from="1583183412407" duration="11110000" />
+      <workItem from="1583228929603" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1583092156009">
+    <state x="275" y="42" key="#Inspections" timestamp="1583180184654">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583092156009" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583090249744">
+    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1583180184654" />
+    <state x="275" y="42" key="#Plugins" timestamp="1583229648095">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583090249744" />
+    <state x="275" y="42" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1583229648095" />
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583198909928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1583198909928" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1583229832113">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583229832113" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1583201502679">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583201502679" />
+    <state x="474" y="198" key="NewPhpClassDialog" timestamp="1583185157016">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="474" y="198" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1583185157016" />
+    <state x="245" y="7" key="SettingsEditor" timestamp="1583188739440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="245" y="7" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583188739440" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583229685211">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583229685211" />
+    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583201668143">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="833" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1583201668143" />
+    <state x="432" y="211" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583181336823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="432" y="211" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1583181336823" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583229756492">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583229756492" />
   </component>
 </project>
