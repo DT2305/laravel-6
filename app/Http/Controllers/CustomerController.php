@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 use App\Customer;
 use Illuminate\Http\Request;
+use App\Mail\WelcomeMail;
+use Illuminate\Support\Facades\Mail;
 
 class CustomerController extends Controller
 {
@@ -15,8 +17,9 @@ class CustomerController extends Controller
         return view('customer.index',compact('customers'));
     }
     protected function create(){
-//        dùng nếu cắt edit và create thành blade form
-//        $customer = new Customer();
+
+       $customer = new Customer();
+       
 
 //        return view('customer.create', compact('customer'));
         return view('customer.create');
@@ -32,6 +35,8 @@ class CustomerController extends Controller
 
 //        Customer::create($data);
         $customer = Customer::create($this->validatedData());
+
+        Mail::to($customer->email)->send(new WelcomeMail());
 //        dd($data);
 
         return redirect('/customers/' .$customer->id);
